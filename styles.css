@@ -13,7 +13,7 @@ body {
 
 #sidebar-wrapper {
     min-height: 100vh;
-    width: 250px;
+    width: 285px;
     margin-left: -250px;
     transition: margin 0.25s ease-out;
 }
